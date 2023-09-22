@@ -1,0 +1,7 @@
+path: /Users/morningstar/Projects/YoloV8/data
+train: images  
+val: images  
+
+# Classes
+names:
+  0 : human
